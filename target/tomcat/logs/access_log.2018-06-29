@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:25:33 +0530] "GET / HTTP/1.1" 200 695 http-bio-9090-exec-1 428
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:25:37 +0530] "POST /LoginServlet HTTP/1.1" 200 322 http-bio-9090-exec-4 224
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:25:38 +0530] "GET /LogoutServlet HTTP/1.1" 200 727 http-bio-9090-exec-5 22
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:26:08 +0530] "POST /LoginServlet HTTP/1.1" 404 977 http-bio-9090-exec-7 10
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:26:22 +0530] "POST /LoginServlet HTTP/1.1" 200 328 http-bio-9090-exec-9 57
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:26:24 +0530] "GET /LogoutServlet HTTP/1.1" 200 727 http-bio-9090-exec-1 2
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:58:25 +0530] "GET / HTTP/1.1" 200 695 http-bio-9090-exec-1 173
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:58:31 +0530] "POST /LoginServlet HTTP/1.1" 200 328 http-bio-9090-exec-3 1329
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:17:58:34 +0530] "GET /LogoutServlet HTTP/1.1" 200 727 http-bio-9090-exec-4 3

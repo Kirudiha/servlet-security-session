@@ -1,0 +1,5 @@
+com\kgfsl\bean\LoginBean.class
+com\kgfsl\dao\LoginDao.class
+com\kgfsl\controller\LoginServlet.class
+com\kgfsl\controller\LogoutServlet.class
+com\kgfsl\util\DBConnection.class
